@@ -1,6 +1,4 @@
-Dropbox user interface's clone.
-
-## Available Scripts
+## Dropbox user interface's clone <img src="https://seeklogo.com/images/D/dropbox-logo-5124EA5479-seeklogo.com.png" width=25 />
 
 In the project directory, you can run:
 
